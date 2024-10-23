@@ -12,24 +12,24 @@ class ProjetoBeewarecomToga(toga.App):
         """
           criacao do box principal
         """
-        main_box = toga.Box(style=Pack(direction=COLUMN))
+        main_box = toga.Box(style=Pack(direction=ROW, padding=5, background_color= "white"))
 
         '''
             criar box direita, box meio  e box esquerda
         '''
-        box_esquerda = toga.Box()
+        box_esquerda = toga.Box(style=Pack(direction=COLUMN, padding=15, background_color= "red"))
         
-        box_meio = toga.Box()
+        box_meio = toga.Box(style=Pack(direction=COLUMN, padding=15, background_color= "blue"))
         
-        box_direita = toga.Box()
+        box_direita = toga.Box(style=Pack(direction=COLUMN, padding=15, background_color= "green"))
 
         
         '''
             criacao de boxes 
         '''
-        box_nome = toga.Box(style=Pack(direction=ROW, padding=5))
-        box_idade= toga.Box(style=Pack(direction=ROW))
-        box_sexo= toga.Box(style=Pack(direction=ROW))
+        box_nome = toga.Box(style=Pack(direction=ROW, padding=10))
+        box_idade= toga.Box(style=Pack(direction=ROW,padding=10))
+        box_sexo= toga.Box(style=Pack(direction=ROW,padding=10))
         
         ''' 
             criacao dos widgets 
@@ -61,12 +61,14 @@ class ProjetoBeewarecomToga(toga.App):
         '''
             criacao de botao
         '''
+        box_botao = toga.Box(style=Pack(direction=ROW, padding=10)) 
         botao_imprimir = toga.Button(text="Imprimir")
+        box_botao.add(botao_imprimir)
         
         '''
             adicao do botao no box a direita
         '''
-        box_direita.add(botao_imprimir)
+        box_direita.add(box_botao)
         
 
         
@@ -74,10 +76,10 @@ class ProjetoBeewarecomToga(toga.App):
         '''
             insersao dos boxes na main_box
         '''
-        
-        main_box.add(box_direita)
-        main_box.add(box_meio)
         main_box.add(box_esquerda)
+
+        main_box.add(box_direita)
+        #main_box.add(box_meio)
         
         
         
