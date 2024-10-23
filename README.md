@@ -1,2 +1,2 @@
 # projBeeware
-projeto python com beeware
+projeto python com beeware com Toga
