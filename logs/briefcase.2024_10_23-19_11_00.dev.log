@@ -1,0 +1,390 @@
+Date/Time:       2024-10-23 19:11:01 
+Command line:    /home/armar/.cache/pypoetry/virtualenvs/projbeeware-sDxmikiG-py3.12/bin/briefcase dev
+
+OS Release:      Linux 6.8.0-45-generic
+OS Version:      #45-Ubuntu SMP PREEMPT_DYNAMIC Fri Aug 30 12:02:04 UTC 2024
+Architecture:    x86_64
+Platform:        Linux-6.8.0-45-generic-x86_64-with-glibc2.40
+
+Python exe:      /home/armar/.cache/pypoetry/virtualenvs/projbeeware-sDxmikiG-py3.12/bin/python
+Python version:  3.12.7 (main, Oct  3 2024, 15:15:22) [GCC 14.2.0]
+Virtual env:     True
+Conda env:       False
+
+Briefcase:       0.3.20
+Target platform: linux
+Target format:   None
+
+Environment Variables:
+	CHROME_DESKTOP=code-url-handler.desktop
+	COLORTERM=truecolor
+	DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+	DEBUGINFOD_URLS=https://debuginfod.ubuntu.com 
+	DESKTOP_SESSION=ubuntu
+	DISPLAY=:1
+	GDK_BACKEND=x11
+	GDMSESSION=ubuntu
+	GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/code.desktop
+	GIO_LAUNCHED_DESKTOP_FILE_PID=4763
+	GIT_ASKPASS=********************
+	GJS_DEBUG_OUTPUT=stderr
+	GJS_DEBUG_TOPICS=JS ERROR;JS LOG
+	GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+	GNOME_SHELL_SESSION_MODE=ubuntu
+	GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+	GRADLE_HOME=/home/armar/.sdkman/candidates/gradle/current
+	GSM_SKIP_SSH_AGENT_WORKAROUND=true
+	GTK_MODULES=gail:atk-bridge
+	HOME=/home/armar
+	IM_CONFIG_PHASE=1
+	INVOCATION_ID=3a08d33701ec4050839de2c5a723b4be
+	JOURNAL_STREAM=8:26882
+	LANG=pt_BR.UTF-8
+	LANGUAGE=pt_BR:pt:en
+	LESSCLOSE=/usr/bin/lesspipe %s %s
+	LESSOPEN=| /usr/bin/lesspipe %s
+	LOGNAME=armar
+	LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.crdownload=00;90:*.dpkg-dist=00;90:*.dpkg-new=00;90:*.dpkg-old=00;90:*.dpkg-tmp=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:*.swp=00;90:*.tmp=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:
+	MANAGERPID=3307
+	MEMORY_PRESSURE_WATCH=/sys/fs/cgroup/user.slice/user-1000.slice/user@1000.service/session.slice/org.gnome.Shell@x11.service/memory.pressure
+	MEMORY_PRESSURE_WRITE=c29tZSAyMDAwMDAgMjAwMDAwMAA=
+	NVM_BIN=/home/armar/.nvm/versions/node/v21.4.0/bin
+	NVM_CD_FLAGS=
+	NVM_DIR=/home/armar/.nvm
+	NVM_INC=/home/armar/.nvm/versions/node/v21.4.0/include/node
+	OLDPWD=/home/armar/Área de trabalho/python/projBeeware/projetobeewarecomtoga
+	ORIGINAL_XDG_CURRENT_DESKTOP=ubuntu:GNOME
+	PATH=/home/armar/.vscode/extensions/ms-python.python-2024.16.1-linux-x64/python_files/deactivate/bash:/home/armar/.cache/pypoetry/virtualenvs/projbeeware-sDxmikiG-py3.12/bin:/home/armar/.local/bin:/home/armar/.sdkman/candidates/gradle/current/bin:/home/armar/.pyenv/plugins/pyenv-virtualenv/shims:/home/armar/.pyenv/shims:/home/armar/.pyenv/bin:/home/armar/.nvm/versions/node/v21.4.0/bin:/home/armar/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin:/home/armar/.pyenv/plugins/pyenv-virtualenv/shims:/home/armar/.pyenv/shims:/home/armar/.pyenv/bin:/home/armar/.nvm/versions/node/v21.4.0/bin:/home/armar/.vscode/extensions/ms-python.python-2024.16.1-linux-x64/python_files/deactivate/bash:/home/armar/.cache/pypoetry/virtualenvs/projbeeware-sDxmikiG-py3.12/bin:/home/armar/.local/bin:/home/armar/.sdkman/candidates/gradle/current/bin:/home/armar/.pyenv/plugins/pyenv-virtualenv/shims:/home/armar/.pyenv/bin:/home/armar/.nvm/versions/node/v21.4.0/bin:/home/armar/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin:/home/armar/.local/bin:/home/armar/.sdkman/candidates/gradle/current/bin:/home/armar/.pyenv/plugins/pyenv-virtualenv/shims:/home/armar/.pyenv/bin:/home/armar/.nvm/versions/node/v21.4.0/bin:/home/armar/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin
+	PS1=\[]633;A\]projbeeware-py3.12\[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ \[]633;B\]
+	PWD=/home/armar/Área de trabalho/python/projBeeware
+	PYENV_SHELL=bash
+	PYENV_VIRTUALENV_INIT=1
+	QT_ACCESSIBILITY=1
+	QT_IM_MODULE=ibus
+	QT_QPA_PLATFORM=xcb
+	SDKMAN_CANDIDATES_API=********************
+	SDKMAN_CANDIDATES_DIR=/home/armar/.sdkman/candidates
+	SDKMAN_DIR=/home/armar/.sdkman
+	SDKMAN_PLATFORM=linuxx64
+	SESSION_MANAGER=local/armar-H110:@/tmp/.ICE-unix/3580,unix/armar-H110:/tmp/.ICE-unix/3580
+	SHELL=/usr/bin/bash
+	SHLVL=1
+	SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+	SYSTEMD_EXEC_PID=3613
+	TERM=xterm-256color
+	TERM_PROGRAM=vscode
+	TERM_PROGRAM_VERSION=1.94.2
+	USER=armar
+	USERNAME=armar
+	VIRTUAL_ENV=/home/armar/.cache/pypoetry/virtualenvs/projbeeware-sDxmikiG-py3.12
+	VIRTUAL_ENV_PROMPT=projbeeware-py3.12
+	VSCODE_GIT_ASKPASS_EXTRA_ARGS=********************
+	VSCODE_GIT_ASKPASS_MAIN=********************
+	VSCODE_GIT_ASKPASS_NODE=********************
+	VSCODE_GIT_IPC_HANDLE=/run/user/1000/vscode-git-5472e425d9.sock
+	WINDOWPATH=2
+	XAUTHORITY=/run/user/1000/gdm/Xauthority
+	XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg
+	XDG_CURRENT_DESKTOP=Unity
+	XDG_DATA_DIRS=/usr/share/ubuntu:/usr/share/gnome:/home/armar/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop
+	XDG_MENU_PREFIX=gnome-
+	XDG_RUNTIME_DIR=/run/user/1000
+	XDG_SESSION_CLASS=user
+	XDG_SESSION_DESKTOP=ubuntu
+	XDG_SESSION_TYPE=x11
+	XMODIFIERS=@im=ibus
+	_=/home/armar/.cache/pypoetry/virtualenvs/projbeeware-sDxmikiG-py3.12/bin/briefcase
+
+pyproject.toml:
+# This project was generated with 0.3.20 using template: https://github.com/beeware/briefcase-template@v0.3.20
+[tool.briefcase]
+project_name = "Projeto Beeware com Toga"
+bundle = "com.example"
+version = "0.0.1"
+url = "https://example.com/projetobeewarecomtoga"
+license.file = "LICENSE"
+author = "Armar Correa"
+author_email = "armarcm.job@gmail.com"
+
+[tool.briefcase.app.projetobeewarecomtoga]
+formal_name = "Projeto Beeware com Toga"
+description = "Esse e um projeto de estudo de beeware com Toga"
+long_description = """More details about the app should go here.
+"""
+sources = [
+    "src/projetobeewarecomtoga",
+]
+test_sources = [
+    "tests",
+]
+
+requires = [
+]
+test_requires = [
+    "pytest",
+]
+
+[tool.briefcase.app.projetobeewarecomtoga.macOS]
+universal_build = true
+requires = [
+    "toga-cocoa~=0.4.7",
+    "std-nslog~=1.0.3",
+]
+
+[tool.briefcase.app.projetobeewarecomtoga.linux]
+requires = [
+    "toga-gtk~=0.4.7",
+]
+
+[tool.briefcase.app.projetobeewarecomtoga.linux.system.debian]
+system_requires = [
+    # Needed to compile pycairo wheel
+    "libcairo2-dev",
+    # Needed to compile PyGObject wheel
+    "libgirepository1.0-dev",
+]
+
+system_runtime_requires = [
+    # Needed to provide GTK and its GI bindings
+    "gir1.2-gtk-3.0",
+    "libgirepository-1.0-1",
+    # Dependencies that GTK looks for at runtime
+    "libcanberra-gtk3-module",
+    # Needed to provide WebKit2 at runtime
+    # Note: Debian 11 and Ubuntu 20.04 require gir1.2-webkit2-4.0 instead
+    # "gir1.2-webkit2-4.1",
+]
+
+[tool.briefcase.app.projetobeewarecomtoga.linux.system.rhel]
+system_requires = [
+    # Needed to compile pycairo wheel
+    "cairo-gobject-devel",
+    # Needed to compile PyGObject wheel
+    "gobject-introspection-devel",
+]
+
+system_runtime_requires = [
+    # Needed to support Python bindings to GTK
+    "gobject-introspection",
+    # Needed to provide GTK
+    "gtk3",
+    # Dependencies that GTK looks for at runtime
+    "libcanberra-gtk3",
+    # Needed to provide WebKit2 at runtime
+    # "webkit2gtk3",
+]
+
+[tool.briefcase.app.projetobeewarecomtoga.linux.system.suse]
+system_requires = [
+    # Needed to compile pycairo wheel
+    "cairo-devel",
+    # Needed to compile PyGObject wheel
+    "gobject-introspection-devel",
+]
+
+system_runtime_requires = [
+    # Needed to provide GTK
+    "gtk3",
+    # Needed to support Python bindings to GTK
+    "gobject-introspection", "typelib(Gtk) = 3.0",
+    # Dependencies that GTK looks for at runtime
+    "libcanberra-gtk3-module",
+    # Needed to provide WebKit2 at runtime
+    # "libwebkit2gtk3", "typelib(WebKit2)",
+]
+
+[tool.briefcase.app.projetobeewarecomtoga.linux.system.arch]
+system_requires = [
+    # Needed to compile pycairo wheel
+    "cairo",
+    # Needed to compile PyGObject wheel
+    "gobject-introspection",
+    # Runtime dependencies that need to exist so that the
+    # Arch package passes final validation.
+    # Needed to provide GTK
+    "gtk3",
+    # Dependencies that GTK looks for at runtime
+    "libcanberra",
+    # Needed to provide WebKit2
+    # "webkit2gtk",
+]
+
+system_runtime_requires = [
+    # Needed to provide GTK
+    "gtk3",
+    # Needed to provide PyGObject bindings
+    "gobject-introspection-runtime",
+    # Dependencies that GTK looks for at runtime
+    "libcanberra",
+    # Needed to provide WebKit2 at runtime
+    # "webkit2gtk",
+]
+
+[tool.briefcase.app.projetobeewarecomtoga.linux.appimage]
+manylinux = "manylinux_2_28"
+
+system_requires = [
+    # Needed to compile pycairo wheel
+    "cairo-gobject-devel",
+    # Needed to compile PyGObject wheel
+    "gobject-introspection-devel",
+    # Needed to provide GTK
+    "gtk3-devel",
+    # Dependencies that GTK looks for at runtime, that need to be
+    # in the build environment to be picked up by linuxdeploy
+    "libcanberra-gtk3",
+    "PackageKit-gtk3-module",
+    "gvfs-client",
+]
+
+linuxdeploy_plugins = [
+    "DEPLOY_GTK_VERSION=3 gtk",
+]
+
+[tool.briefcase.app.projetobeewarecomtoga.linux.flatpak]
+flatpak_runtime = "org.gnome.Platform"
+flatpak_runtime_version = "47"
+flatpak_sdk = "org.gnome.Sdk"
+
+[tool.briefcase.app.projetobeewarecomtoga.windows]
+requires = [
+    "toga-winforms~=0.4.7",
+]
+
+# Mobile deployments
+[tool.briefcase.app.projetobeewarecomtoga.iOS]
+requires = [
+    "toga-iOS~=0.4.7",
+    "std-nslog~=1.0.3",
+]
+
+[tool.briefcase.app.projetobeewarecomtoga.android]
+requires = [
+    "toga-android~=0.4.7",
+]
+
+base_theme = "Theme.MaterialComponents.Light.DarkActionBar"
+
+build_gradle_dependencies = [
+    "com.google.android.material:material:1.12.0",
+    # Needed for DetailedList
+    # "androidx.swiperefreshlayout:swiperefreshlayout:1.1.0",
+    # Needed for MapView
+    # "org.osmdroid:osmdroid-android:6.1.20",
+]
+
+# Web deployments
+[tool.briefcase.app.projetobeewarecomtoga.web]
+requires = [
+    "toga-web~=0.4.7",
+]
+style_framework = "Shoelace v2.3"
+
+Briefcase Log:
+[19:11:00]                                                                                                                                                                dev.py:240
+           [projetobeewarecomtoga] Installing requirements...                                                                                                             dev.py:240
+           Installing dev requirements... started                                                                                                                          dev.py:89
+                                                                                                                                                                   subprocess.py:827
+           >>> Running Command:                                                                                                                                    subprocess.py:827
+           >>>     /home/armar/.cache/pypoetry/virtualenvs/projbeeware-sDxmikiG-py3.12/bin/python -u -X utf8 -m pip install --upgrade 'toga-gtk~=0.4.7' pytest     subprocess.py:827
+           >>> Working Directory:                                                                                                                                  subprocess.py:827
+           >>>     /home/armar/Área de trabalho/python/projBeeware                                                                                                 subprocess.py:827
+           Requirement already satisfied: toga-gtk~=0.4.7 in /home/armar/.cache/pypoetry/virtualenvs/projbeeware-sDxmikiG-py3.12/lib/python3.12/site-packages      subprocess.py:195
+           (0.4.8)                                                                                                                                                                  
+           Requirement already satisfied: pytest in /home/armar/.cache/pypoetry/virtualenvs/projbeeware-sDxmikiG-py3.12/lib/python3.12/site-packages (8.3.3)       subprocess.py:195
+           Requirement already satisfied: pycairo>=1.17.0 in /home/armar/.cache/pypoetry/virtualenvs/projbeeware-sDxmikiG-py3.12/lib/python3.12/site-packages      subprocess.py:195
+           (from toga-gtk~=0.4.7) (1.27.0)                                                                                                                                          
+           Requirement already satisfied: pygobject>=3.50.0 in /home/armar/.cache/pypoetry/virtualenvs/projbeeware-sDxmikiG-py3.12/lib/python3.12/site-packages    subprocess.py:195
+           (from toga-gtk~=0.4.7) (3.50.0)                                                                                                                                          
+           Requirement already satisfied: toga-core==0.4.8 in /home/armar/.cache/pypoetry/virtualenvs/projbeeware-sDxmikiG-py3.12/lib/python3.12/site-packages     subprocess.py:195
+           (from toga-gtk~=0.4.7) (0.4.8)                                                                                                                                           
+           Requirement already satisfied: travertino>=0.3.0 in /home/armar/.cache/pypoetry/virtualenvs/projbeeware-sDxmikiG-py3.12/lib/python3.12/site-packages    subprocess.py:195
+           (from toga-core==0.4.8->toga-gtk~=0.4.7) (0.3.0)                                                                                                                         
+           Requirement already satisfied: iniconfig in /home/armar/.cache/pypoetry/virtualenvs/projbeeware-sDxmikiG-py3.12/lib/python3.12/site-packages (from      subprocess.py:195
+           pytest) (2.0.0)                                                                                                                                                          
+           Requirement already satisfied: packaging in /home/armar/.cache/pypoetry/virtualenvs/projbeeware-sDxmikiG-py3.12/lib/python3.12/site-packages (from      subprocess.py:195
+           pytest) (24.1)                                                                                                                                                           
+           Requirement already satisfied: pluggy<2,>=1.5 in /home/armar/.cache/pypoetry/virtualenvs/projbeeware-sDxmikiG-py3.12/lib/python3.12/site-packages (from subprocess.py:195
+           pytest) (1.5.0)                                                                                                                                                          
+           >>> Return code: 0                                                                                                                                      subprocess.py:827
+           Installing dev requirements... done                                                                                                                             dev.py:89
+           Saving log... started                                                                                                                                      console.py:391
+
+Main thread traceback:
+╭─────────────────────────────────────────────────────────────────────── Traceback (most recent call last) ────────────────────────────────────────────────────────────────────────╮
+│ /home/armar/.cache/pypoetry/virtualenvs/projbeeware-sDxmikiG-py3.12/lib/python3.12/site-packages/briefcase/__main__.py:29 in main                                                │
+│                                                                                                                                                                                  │
+│   26 │   │   │   Path.cwd() / "pyproject.toml",                                                                                                                                  │
+│   27 │   │   │   overrides=overrides,                                                                                                                                            │
+│   28 │   │   )                                                                                                                                                                   │
+│ ❱ 29 │   │   command(**options)                                                                                                                                                  │
+│   30 │   except HelpText as e:                                                                                                                                                   │
+│   31 │   │   logger.info()                                                                                                                                                       │
+│   32 │   │   logger.info(str(e))                                                                                                                                                 │
+│                                                                                                                                                                                  │
+│ ╭──────────────────────────────────────────────────────── locals ─────────────────────────────────────────────────────────╮                                                      │
+│ │       command = <briefcase.commands.dev.DevCommand object at 0x73b132ccdd30>                                            │                                                      │
+│ │       console = <briefcase.console.Console object at 0x73b133f66420>                                                    │                                                      │
+│ │ extra_cmdline = []                                                                                                      │                                                      │
+│ │        logger = <briefcase.console.Log object at 0x73b133f66390>                                                        │                                                      │
+│ │       options = {'appname': None, 'update_requirements': False, 'run_app': True, 'test_mode': False, 'passthrough': []} │                                                      │
+│ │     overrides = {}                                                                                                      │                                                      │
+│ │       printer = <briefcase.console.Printer object at 0x73b132b13050>                                                    │                                                      │
+│ │        result = 0                                                                                                       │                                                      │
+│ ╰─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯                                                      │
+│                                                                                                                                                                                  │
+│ /home/armar/.cache/pypoetry/virtualenvs/projbeeware-sDxmikiG-py3.12/lib/python3.12/site-packages/briefcase/commands/dev.py:242 in __call__                                       │
+│                                                                                                                                                                                  │
+│   239 │   │   if update_requirements or not dist_info_path.exists():                                                                                                             │
+│   240 │   │   │   self.logger.info("Installing requirements...", prefix=app.app_name)                                                                                            │
+│   241 │   │   │   self.install_dev_requirements(app, **options)                                                                                                                  │
+│ ❱ 242 │   │   │   write_dist_info(app, dist_info_path)                                                                                                                           │
+│   243 │   │                                                                                                                                                                      │
+│   244 │   │   if run_app:                                                                                                                                                        │
+│   245 │   │   │   if test_mode:                                                                                                                                                  │
+│                                                                                                                                                                                  │
+│ ╭──────────────────────────────────────────────────────── locals ────────────────────────────────────────────────────────╮                                                       │
+│ │                 app = <com.example.projetobeewarecomtoga v0.0.1 AppConfig>                                             │                                                       │
+│ │             appname = None                                                                                             │                                                       │
+│ │      dist_info_path = PosixPath('/home/armar/Área de trabalho/python/projBeeware/src/projetobeewarecomtoga.dist-info') │                                                       │
+│ │             options = {}                                                                                               │                                                       │
+│ │         passthrough = []                                                                                               │                                                       │
+│ │             run_app = True                                                                                             │                                                       │
+│ │                self = <briefcase.commands.dev.DevCommand object at 0x73b132ccdd30>                                     │                                                       │
+│ │           test_mode = False                                                                                            │                                                       │
+│ │ update_requirements = False                                                                                            │                                                       │
+│ ╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯                                                       │
+│                                                                                                                                                                                  │
+│ /home/armar/.cache/pypoetry/virtualenvs/projbeeware-sDxmikiG-py3.12/lib/python3.12/site-packages/briefcase/commands/create.py:53 in write_dist_info                              │
+│                                                                                                                                                                                  │
+│    50 │   :param dist_info_path: The path into which the dist-info folder should be written.                                                                                     │
+│    51 │   """                                                                                                                                                                    │
+│    52 │   # Create dist-info folder, and write a minimal metadata collection.                                                                                                    │
+│ ❱  53 │   dist_info_path.mkdir(exist_ok=True)                                                                                                                                    │
+│    54 │   with (dist_info_path / "INSTALLER").open("w", encoding="utf-8") as f:                                                                                                  │
+│    55 │   │   f.write("briefcase\n")                                                                                                                                             │
+│    56 │   with (dist_info_path / "WHEEL").open("w", encoding="utf-8") as f:                                                                                                      │
+│                                                                                                                                                                                  │
+│ ╭───────────────────────────────────────────────────── locals ──────────────────────────────────────────────────────╮                                                            │
+│ │            app = <com.example.projetobeewarecomtoga v0.0.1 AppConfig>                                             │                                                            │
+│ │ dist_info_path = PosixPath('/home/armar/Área de trabalho/python/projBeeware/src/projetobeewarecomtoga.dist-info') │                                                            │
+│ ╰───────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯                                                            │
+│                                                                                                                                                                                  │
+│ /usr/lib/python3.12/pathlib.py:1313 in mkdir                                                                                                                                     │
+│                                                                                                                                                                                  │
+│   1310 │   │   Create a new directory at this given path.                                                                                                                        │
+│   1311 │   │   """                                                                                                                                                               │
+│   1312 │   │   try:                                                                                                                                                              │
+│ ❱ 1313 │   │   │   os.mkdir(self, mode)                                                                                                                                          │
+│   1314 │   │   except FileNotFoundError:                                                                                                                                         │
+│   1315 │   │   │   if not parents or self.parent == self:                                                                                                                        │
+│   1316 │   │   │   │   raise                                                                                                                                                     │
+│                                                                                                                                                                                  │
+│ ╭────────────────────────────────────────────────── locals ───────────────────────────────────────────────────╮                                                                  │
+│ │ exist_ok = True                                                                                             │                                                                  │
+│ │     mode = 511                                                                                              │                                                                  │
+│ │  parents = False                                                                                            │                                                                  │
+│ │     self = PosixPath('/home/armar/Área de trabalho/python/projBeeware/src/projetobeewarecomtoga.dist-info') │                                                                  │
+│ ╰─────────────────────────────────────────────────────────────────────────────────────────────────────────────╯                                                                  │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+FileNotFoundError: [Errno 2] No such file or directory: '/home/armar/Área de trabalho/python/projBeeware/src/projetobeewarecomtoga.dist-info'

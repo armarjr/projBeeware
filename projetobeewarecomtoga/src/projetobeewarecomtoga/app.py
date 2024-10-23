@@ -27,7 +27,7 @@ class ProjetoBeewarecomToga(toga.App):
         '''
             criacao de boxes 
         '''
-        box_nome = toga.Box(style=Pack(direction=ROW))
+        box_nome = toga.Box(style=Pack(direction=ROW, padding=5))
         box_idade= toga.Box(style=Pack(direction=ROW))
         box_sexo= toga.Box(style=Pack(direction=ROW))
         
